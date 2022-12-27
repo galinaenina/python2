@@ -127,3 +127,4 @@ print(pencil.draw())
 handle = Handle('маркером')
 print(handle.draw())
 
+
